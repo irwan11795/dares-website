@@ -1,0 +1,57 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #0d0d0d;
+  color: #f4f4f4;
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
+}
+
+header {
+  text-align: center;
+  padding: 3rem 1rem;
+  background: #1a1a1a;
+}
+
+h1 {
+  font-size: 3rem;
+  margin-bottom: 0.5rem;
+  color: #f54269;
+}
+
+.tagline {
+  font-size: 1.2rem;
+  color: #aaa;
+}
+
+section {
+  padding: 2rem;
+  max-width: 800px;
+  margin: auto;
+}
+
+h2 {
+  color: #f54269;
+}
+
+.tokenomics ul {
+  list-style: none;
+  padding: 0;
+}
+
+.tokenomics li {
+  padding: 0.3rem 0;
+}
+
+footer {
+  text-align: center;
+  padding: 2rem 1rem;
+  background: #1a1a1a;
+  color: #999;
+}
+
+.socials a {
+  color: #f54269;
+  text-decoration: none;
+  margin: 0 0.5rem;
+}
